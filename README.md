@@ -1,6 +1,5 @@
-# 
-Magento 2 QuickBooks Online Integration
-***[Magento 2 QuickBooks Online Integration ](https://meetanshi.com/magento-2-sql-report-builder.html)*** by Meetanshi integrates the QuickBooks Online with Magento 2 store for automatic syncing the store data to QuickBooks such as orders, customers, payment methods, invoices, & credit memos.
+# Magento 2 QuickBooks Online Integration
+***[Magento 2 QuickBooks Online Integration](https://meetanshi.com/magento-2-sql-report-builder.html)*** by Meetanshi integrates the QuickBooks Online with Magento 2 store for automatic syncing the store data to QuickBooks such as orders, customers, payment methods, invoices, & credit memos.
 
 QuickBooks by Intuit is a popular accounting and finance management software that eases the tasks of the admin such as income and expense management, recurring bills, order tracking, and much more.
 
